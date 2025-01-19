@@ -6,6 +6,7 @@ A responsive Netflix clone built using HTML and CSS. This project is a static re
 
 ## 🚀 Features
 - Replication of Netflix's layout, including:
+  
   - Navigation bar with logo and buttons.
   - Hero section with a featured movie/series banner.
   - Multiple content rows resembling Netflix's browsing categories.
@@ -17,6 +18,7 @@ A responsive Netflix clone built using HTML and CSS. This project is a static re
 ## 🧑🏻‍💻 Technologies Used
 - **HTML5**: Structure of the webpage.
 - **CSS3**: Styling and layout, including:
+  
   - Flexbox and Grid for layout management.
   - Media queries for responsiveness.
   - Custom fonts and animations for visual appeal.
