@@ -1,4 +1,4 @@
-# Netflix-Clone
+# Netflix-Clone 📺
 
 A responsive Netflix clone built using HTML and CSS. This project is a static recreation of the Netflix interface, and to demonstrate skills in front-end web development.
 
@@ -22,3 +22,8 @@ A responsive Netflix clone built using HTML and CSS. This project is a static re
   - Flexbox and Grid for layout management.
   - Media queries for responsiveness.
   - Custom fonts and animations for visual appeal.
+
+---
+
+## Try Live Demo 
+👉🏻 [Netflix Clone](https://netflix-omghare.vercel.app)
